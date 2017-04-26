@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/spidernode/datasrc.py=utf-8
+encoding//src/spidernode/machine.py=utf-8
+encoding//src/spidernode/spider/master.py=utf-8
+encoding//src/spidernode/spider/slave.py=utf-8
